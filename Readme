@@ -1,12 +1,23 @@
 PasaOS User Guide
+
 1. About PasaOS
-PasaOS is a secure, credible, and distributed Web3.0 application, open-sourcedonGitHub, aiming to provide global applications for the development of the Web3ecosystem, including encryption field information, mining tools, cluster control
-management, encryption investment analysis, etc. 2. How to apply for a license
-2.1 Enter "http://127.0.0.1:8888/pasa" in the address bar of the browser to enter thePasaOS console (Firefox/Chrome). 2.1.1. [Free service version] In the project Solution application in the Pasa Servicecolumn, select the project you need, click to select a "project Solution", click "CreateLisence" in the lower left column, and follow the prompts to enter the email addressused for payment The address and BSC (BEP20) wallet address will automaticallyjump to the creation page. 2.1.2. Version selection: Select the free version you need on the creation page, andfollow the prompt on the page to "confirm" to create your exclusive free versionof
-Lisence. Click "←" in the upper left corner of the address bar to return to the PasaOSconsole and start your service experience. 2.2. [Paid solution version] In the project Solution application in the Pasa Servicecolumn, select the project you need, click to select a "project Solution", click "CreateLisence" in the lower left column, and follow the prompts to enter the email addressfor payment and BSC (BEP20) wallet address will automatically jump to the creationpage. 2.2.1. Version selection: On the creation page, select the basic version (≤5 units) or
+
+PasaOS is a secure, credible, and distributed Web3.0 application, open-sourcedonGitHub, aiming to provide global applications for the development of the Web3ecosystem, including encryption field information, mining tools, cluster controlmanagement, encryption investment analysis, etc.
+
+2. How to apply for a license
+2.1 Enter "http://127.0.0.1:8888/pasa" in the address bar of the browser to enter thePasaOS console (Firefox/Chrome). 
+
+2.1.1. [Free service version] In the project Solution application in the Pasa Servicecolumn, select the project you need, click to select a "project Solution", click "CreateLisence" in the lower left column, and follow the prompts to enter the email addressused for payment The address and BSC (BEP20) wallet address will automaticallyjump to the creation page.
+
+2.1.2. Version selection: Select the free version you need on the creation page, andfollow the prompt on the page to "confirm" to create your exclusive free versionofLisence. Click "←" in the upper left corner of the address bar to return to the PasaOSconsole and start your service experience. 
+
+2.2. [Paid solution version] In the project Solution application in the Pasa Servicecolumn, select the project you need, click to select a "project Solution", click "CreateLisence" in the lower left column, and follow the prompts to enter the email addressfor payment and BSC (BEP20) wallet address will automatically jump to the creationpage. 2.2.1. Version selection: On the creation page, select the basic version (≤5 units) or
 professional version (unlimited) according to the number of cluster control devices youneed. 2.2.2. Time selection: Select the service time you need, click "OK" according totheprompt, and the system will automatically calculate the "amount" to be paid accordingto the service time. 2.2.3. Note: Please use the BEP20 address you entered for the first time to pay! Thisprocess is completed on the BSC chain, you may need to wait for a while, please donot exit the page during the process!
-2.2.4. After completing the on-chain payment, you will get an exclusive Solution Lisence, please keep it safe. Click "←" in the upper left corner of the address bar to return tothePasaOS console and start your solution experience.
+
+2.2.4. After completing the on-chain payment, you will get an exclusive Solution Lisence, please keep it safe. Click "←" in the upper left corner of the address bar to return tothePasaOS console and start your solution experience. 
+
 PasaOS 用户指南一、关于 PasaOS
+
 PasaOS 是一个安全、可信、分布式的 Web3.0 应用，开源于GitHub，旨在为Web3 生态的发展提供全球应用，包括加密领域信息、挖矿工具、集群控制管理、加密投资分析等 . 2.如何申请牌照
 2.1 在 浏 览 器 地 址 栏 输 入 “ http://127.0.0.1:8888/pasa ”，进入PasaOS 控制台（Firefox/Chrome）。
 2.1.1. 【免费服务版】在 Pasa Service 一栏的 project Solution application 中，选择你需要的项目，点击选择一个“project Solution”，点击左下栏的“Create Lisence”，根据提示输入邮箱 用于支付的地址和 BSC（BEP20）钱包地址会自动跳转到创建页面。
@@ -15,49 +26,124 @@ PasaOS 是一个安全、可信、分布式的 Web3.0 应用，开源于GitHub�
 2.2.2. 时间选择：选择您需要的服务时间，根据提示点击“确定”，系统会根据服务时间自动计算需要支付的“金额”。
 2.2.3. 注意：请使用您第一次输入的 BEP20 地址进行支付！此过程在BSC链上完成，您可能需要稍等片刻，过程中请不要退出页面！
 2.2.4. 完成链上支付后，您将获得一份专属的 Solution Lisence，请妥善保管。点击地址栏左上角的“←”返回 PasaOS 控制台，开始您的解决方案体验。
+
 Guide de l'utilisateur PasaOS
 1. À propos de PasaOS
-PasaOS est une application Web3.0 sécurisée, crédible et distribuée, open-source sur GitHub, visant à fournir des applications globales pour ledéveloppement de l'écosystème Web3, y compris les informations de champdechiffrement, les outils d'exploration de données, la gestion du contrôle des clusters, l'analyse des investissements dans le chiffrement, etc. . 2. Comment demander une licence
+PasaOS est une application Web3.0 sécurisée, crédible et distribuée, open-source sur GitHub, visant à fournir des applications globales pour ledéveloppement de 
+
+l'écosystème Web3, y compris les informations de champdechiffrement, les outils d'exploration de données, la gestion du contrôle des clusters, l'analyse des investissements dans le chiffrement, etc. . 
+2. Comment demander une licence
+
 2.1 Entrez "http://127.0.0.1:8888/pasa" dans la barre d'adresse du navigateur pour
-accéder à la console PasaOS (Firefox/Chrome). 2.1.1. [Version de service gratuite] Dans l'application de solution de projet dans lacolonne Pasa Service, sélectionnez le projet dont vous avez besoin, cliquez pour
+accéder à la console PasaOS (Firefox/Chrome). 
+
+2.1.1. [Version de service gratuite] Dans l'application de solution de projet dans lacolonne Pasa Service, sélectionnez le projet dont vous avez besoin, cliquez pour
 sélectionner une "solution de projet", cliquez sur "Créer une licence" dans la colonneen bas à gauche et suivez les invites pour saisir l'e-mail adresse utilisée pour lepaiement L'adresse et l'adresse du portefeuille BSC (BEP20) passeront
-automatiquement à la page de création. 2.1.2. Sélection de la version : sélectionnez la version gratuite dont vous avez besoinsur
-la page de création et suivez l'invite sur la page pour "confirmer" afin de créer votreversion gratuite exclusive de Lisence. Cliquez sur "←" dans le coin supérieur gauchede la barre d'adresse pour revenir à la console PasaOS et commencer votre expériencede service. 2.2. [Version de la solution payante] Dans l'application de solution de projet dans lacolonne Pasa Service, sélectionnez le projet dont vous avez besoin, cliquez pour
+automatiquement à la page de création. 
+
+2.1.2. Sélection de la version : sélectionnez la version gratuite dont vous avez besoinsur
+la page de création et suivez l'invite sur la page pour "confirmer" afin de créer votreversion gratuite exclusive de Lisence. Cliquez sur "←" dans le coin supérieur gauchede la barre d'adresse pour revenir à la console PasaOS et commencer votre expériencede service. 
+
+2.2. [Version de la solution payante] Dans l'application de solution de projet dans lacolonne Pasa Service, sélectionnez le projet dont vous avez besoin, cliquez pour
 sélectionner une "solution de projet", cliquez sur "Créer une licence" dans la colonneen bas à gauche et suivez les invites pour saisir l'e-mail l'adresse de paiement et
-l'adresse du portefeuille BSC (BEP20) passeront automatiquement à la page decréation. 2.2.1. Sélection de la version : Sur la page de création, sélectionnez la version de base (≤5 unités) ou la version professionnelle (illimitée) en fonction du nombre d'appareils decontrôle de cluster dont vous avez besoin. 2.2.2. Sélection de l'heure : sélectionnez l'heure de service dont vous avez besoin, cliquezsur "OK" selon l'invite, et le système calculera automatiquement le "montant" à payer
-en fonction de l'heure de service. 2.2.3. Remarque : Veuillez utiliser l'adresse BEP20 que vous avez saisie pour la premièrefois pour payer ! Ce processus est terminé sur la chaîne BSC, vous devrez peut-êtreattendre un moment, veuillez ne pas quitter la page pendant le processus !
+l'adresse du portefeuille BSC (BEP20) passeront automatiquement à la page decréation. 
+
+2.2.1. Sélection de la version : Sur la page de création, sélectionnez la version de base (≤5 unités) ou la version professionnelle (illimitée) en fonction du nombre d'appareils decontrôle de cluster dont vous avez besoin. 
+
+2.2.2. Sélection de l'heure : sélectionnez l'heure de service dont vous avez besoin, cliquezsur "OK" selon l'invite, et le système calculera automatiquement le "montant" à payer
+en fonction de l'heure de service. 
+
+2.2.3. Remarque : Veuillez utiliser l'adresse BEP20 que vous avez saisie pour la premièrefois pour payer ! Ce processus est terminé sur la chaîne BSC, vous devrez peut-êtreattendre un moment, veuillez ne pas quitter la page pendant le processus !
+
 2.2.4. Après avoir effectué le paiement en chaîne, vous obtiendrez une licence de solutionexclusive, veuillez la conserver précieusement. Cliquez sur "←" dans le coin supérieur
 gauche de la barre d'adresse pour revenir à la console PasaOS et commencer votreexpérience de solution.
-PasaOS 사용자 가이드1. PasaOS 소개
-PasaOS 는 암호화 필드 정보, 마이닝도구, 클러스터제어관리, 암호화 투자 분석 등을 포함하여 Web3 생태계개발을위한글로벌애플리케이션을 제공하는 것을 목표로 GitHub 에서오픈소스로제공되는안전하고 신뢰할 수 있으며 분산된 Web3.0 애플리케이션입니다. . 2. 면허 신청 방법
-2.1 브라우저의 주소창에 "http://127.0.0.1:8888/pasa"를입력하여PasaOS콘솔(Firefox/Chrome)로 들어갑니다. 2.1.1. [무료 서비스 버전] Pasa 서비스 열의 프로젝트 솔루션응용프로그램에서 필요한 프로젝트를 선택하고 "프로젝트 솔루션"을클릭하여선택하고왼쪽 하단 열의 "라이선스 생성"을 클릭하고 프롬프트에따라이메일을입력하십시오. 결제에 사용된 주소 주소와 BSC(BEP20) 지갑주소는자동으로생성 페이지로 이동합니다. 2.1.2. 버전 선택: 생성 페이지에서 필요한 무료 버전을선택하고페이지의프롬프트에 따라 "확인"하여 독점 무료 버전의 Lisence 를생성합니다. 주소표시줄의 왼쪽 상단에 있는 "←"를 클릭하여 PasaOS 콘솔로돌아가서서비스경험을 시작하십시오. 2.2. [유료솔루션 버전] 파사서비스란의 프로젝트솔루션신청에서필요한프로젝트를 선택하고 "프로젝트솔루션"을 클릭하여 선택후좌측하단의"라이선스 생성"을 클릭 후 안내에 따라 이메일 입력 결제용주소와BSC(BEP20)
-지갑 주소가 생성 페이지로 자동 이동됩니다. 2.2.1. 버전 선택: 생성 페이지에서 필요한 클러스터 제어장치수에따라기본 버전(≤5 장치) 또는 전문가 버전(무제한)을 선택합니다. 2.2.2. 시간 선택: 필요한 서비스 시간을 선택하고 프롬프트에따라"확인"을클릭하면 시스템이 서비스 시간에 따라 지불할 "금액"을자동으로계산합니다. 2.2.3. 참고: 처음 입력한 BEP20 주소를 사용하여 결제하세요! 이프로세스는BSC 체인에서 완료되며 잠시 기다려야 할 수 있습니다. 프로세스중에페이지를 종료하지 마십시오!
+
+PasaOS 사용자 가이드
+1. PasaOS 소개PasaOS 는 암호화 필드 정보, 마이닝도구, 클러스터제어관리, 암호화 투자 분석 등을 포함하여 Web3 생태계개발을위한글로벌애플리케이션을 제공하는 것을 목표로 GitHub 에서오픈소스로제공되는안전하고 신뢰할 수 있으며 분산된 Web3.0 애플리케이션입니다. . 
+
+2. 면허 신청 방법
+
+2.1 브라우저의 주소창에 "http://127.0.0.1:8888/pasa"를입력하여PasaOS콘솔(Firefox/Chrome)로 들어갑니다. 
+
+2.1.1. [무료 서비스 버전] Pasa 서비스 열의 프로젝트 솔루션응용프로그램에서 필요한 프로젝트를 선택하고 "프로젝트 솔루션"을클릭하여선택하고왼쪽 하단 열의 "라이선스 생성"을 클릭하고 프롬프트에따라이메일을입력하십시오. 결제에 사용된 주소 주소와 BSC(BEP20) 지갑주소는자동으로생성 페이지로 이동합니다. 
+
+2.1.2. 버전 선택: 생성 페이지에서 필요한 무료 버전을선택하고페이지의프롬프트에 따라 "확인"하여 독점 무료 버전의 Lisence 를생성합니다. 주소표시줄의 왼쪽 상단에 있는 "←"를 클릭하여 PasaOS 콘솔로돌아가서서비스경험을 시작하십시오.
+
+2.2. [유료솔루션 버전] 파사서비스란의 프로젝트솔루션신청에서필요한프로젝트를 선택하고 "프로젝트솔루션"을 클릭하여 선택후좌측하단의"라이선스 생성"을 클릭 후 안내에 따라 이메일 입력 결제용주소와BSC(BEP20)
+지갑 주소가 생성 페이지로 자동 이동됩니다. 
+
+2.2.1. 버전 선택: 생성 페이지에서 필요한 클러스터 제어장치수에따라기본 버전(≤5 장치) 또는 전문가 버전(무제한)을 선택합니다. 
+
+2.2.2. 시간 선택: 필요한 서비스 시간을 선택하고 프롬프트에따라"확인"을클릭하면 시스템이 서비스 시간에 따라 지불할 "금액"을자동으로계산합니다. 
+
+2.2.3. 참고: 처음 입력한 BEP20 주소를 사용하여 결제하세요! 이프로세스는BSC 체인에서 완료되며 잠시 기다려야 할 수 있습니다. 프로세스중에페이지를 종료하지 마십시오!
+
 2.2.4. 온체인 결제를 완료하면 독점 솔루션 라이센스를받게되므로안전하게보관하십시오. 주소 표시줄의 왼쪽 상단 모서리에있는"←"를클릭하여PasaOS 콘솔로 돌아가서 솔루션 경험을 시작하십시오.
+
 PasaOS ユーザーガイド1.PasaOS について
-PasaOS は、暗号化フィールド情報、マイニングツール、クラスター制御管理、暗号化投資分析などを含む、Web3 エコシステムの開発のためのグローバル アプリケーションを提供することを目的として、GitHubでオープンソース化された、安全で信頼できる分散 Web3.0 アプリケーションです。 . 2. 免許の申請方法
+
+PasaOS は、暗号化フィールド情報、マイニングツール、クラスター制御管理、暗号化投資分析などを含む、Web3 エコシステムの開発のためのグローバル アプリケーションを提供することを目的として、GitHubでオープンソース化された、安全で信頼できる分散 Web3.0 アプリケーションです。 . 
+
+2. 免許の申請方法
 2.1 ブラウザのアドレスバーに「http://127.0.0.1:8888/pasa」と入力して、PasaOSコンソール (Firefox/Chrome) に入ります。
+
 2.1.1. 【無料サービス版】Pasa Service 欄のプロジェクトソリューション申請で、必要なプロジェクトを選択し、「プロジェクトソリューション」をクリックして選択し、左下欄の「ライセンスの作成」をクリックし、プロンプトに従ってメールを入力します。 決済に使用するアドレスアドレスとBSC(BEP20)ウォレットアドレスは自動で作成ページにジャンプします。
+
 2.1.2. バージョンの選択: 作成ページで必要な無料バージョンを選択し、ページのプロンプトに従って「確認」して、専用の無料バージョンのLisence を作成します。 アドレス バーの左上隅にある [←] をクリックしてPasaOS コンソールに戻り、サービス エクスペリエンスを開始します。2.2. 【有償版】プロジェクトソリューション申請のパササービス欄で、必要なプロジェクトを選択し、「プロジェクトソリューション」をクリックして選択し、左下欄の「ライセンスの作成」をクリックし、プロンプトに従ってメールを入力してください。 決済用アドレスと BSC(BEP20)ウォレットアドレスは自動で作成ページにジャンプします。
+
 2.2.1. バージョンの選択: 作成ページで、必要なクラスター制御デバイスの数に応じて、ベーシック バージョン (≤5 台) またはプロフェッショナルバージョン (無制限) を選択します。
+
 2.2.2. 時間の選択: 必要なサービス時間を選択し、プロンプトに従って「OK」をクリックすると、サービス時間に応じて支払われる「金額」がシステムによって自動的に計算されます。
+
 2.2.3. 注: 最初に入力した BEP20 アドレスを使用して支払いを行ってください!
 このプロセスは BSC チェーンで完了します。しばらく待つ必要がある場合があります。プロセス中にページを終了しないでください。2.2.4. オンチェーン決済が完了すると、専用のソリューションライセンスが発行されますので、大切に保管してください。 アドレス バーの左上隅にある[←]
 をクリックして PasaOS コンソールに戻り、ソリューションエクスペリエンスを開始します。
+
+
 PasaOS-Benutzerhandbuch
+
 1. Über PasaOS
-PasaOS ist eine sichere, glaubwürdige und verteilteWeb3.0-Anwendung, Open-Source auf GitHub, die darauf abzielt, globaleAnwendungen für die Entwicklung des Web3-Ökosystems bereitzustellen, einschließlich Verschlüsselungsfeldinformationen, Mining-Tools, Cluster-Kontrollmanagement, Analyse von Verschlüsselungsinvestitionen usw. 2. So beantragen Sie eine Lizenz
-2.1 Geben Sie „http://127.0.0.1:8888/pasa“ in die Adressleiste des Browsers ein, umdie PasaOS-Konsole (Firefox/Chrome) aufzurufen. 2.1.1. [Kostenlose Serviceversion] Wählen Sie in der Projektlösungsanwendung inder
-Pasa-Service-Spalte das gewünschte Projekt aus, klicken Sie, um eine „Projektlösung“ auszuwählen, klicken Sie in der unteren linken Spalte auf „Lizenz erstellen“undbefolgen Sie die Eingabeaufforderungen, um die E-Mail einzugeben für die Zahlungverwendete Adresse Die Adresse und die BSC (BEP20)-Wallet-Adresse springenautomatisch zur Erstellungsseite. 2.1.2. Versionsauswahl: Wählen Sie auf der Erstellungsseite die benötigte kostenloseVersion aus und folgen Sie der Aufforderung auf der Seite zur „Bestätigung“, umIhreexklusive kostenlose Version von Lisence zu erstellen. Klicken Sie auf „←“inder
-oberen linken Ecke der Adressleiste, um zur PasaOS-Konsole zurückzukehren undIhreService-Erfahrung zu starten. 2.2. [Kostenpflichtige Lösungsversion] Wählen Sie in der Projektlösungsanwendunginder Spalte Pasa Service das gewünschte Projekt aus, klicken Sie zur Auswahl einer „Projektlösung“, klicken Sie in der unteren linken Spalte auf „Lizenz erstellen“undbefolgen Sie die Eingabeaufforderungen, um die E-Mail einzugeben Zahlungsadresseund BSC (BEP20) Wallet-Adresse springen automatisch zur Erstellungsseite. 2.2.1. Versionsauswahl: Wählen Sie auf der Erstellungsseite die Basisversion ( ≤5Einheiten) oder die Professional-Version (unbegrenzt) entsprechend der Anzahl der
-benötigten Cluster-Steuergeräte aus. 2.2.2. Zeitauswahl: Wählen Sie die gewünschte Servicezeit aus, klicken Sie nachder
-Aufforderung auf "OK", und das System berechnet automatisch den zu zahlenden"Betrag" entsprechend der Servicezeit. 2.2.3. Hinweis: Bitte verwenden Sie zum Bezahlen die von Ihnen eingegebeneBEP20-Adresse! Dieser Vorgang ist auf der BSC-Kette abgeschlossen, Sie müssenmöglicherweise eine Weile warten, bitte verlassen Sie die Seite während des Vorgangsnicht!
+PasaOS ist eine sichere, glaubwürdige und verteilteWeb3.0-Anwendung, Open-Source auf GitHub, die darauf abzielt, globaleAnwendungen für die Entwicklung des Web3-Ökosystems bereitzustellen, einschließlich Verschlüsselungsfeldinformationen, Mining-Tools, Cluster-Kontrollmanagement, Analyse von Verschlüsselungsinvestitionen usw. 
+
+2. So beantragen Sie eine Lizenz
+2.1 Geben Sie „http://127.0.0.1:8888/pasa“ in die Adressleiste des Browsers ein, umdie PasaOS-Konsole (Firefox/Chrome) aufzurufen. 
+
+2.1.1. [Kostenlose Serviceversion] Wählen Sie in der Projektlösungsanwendung inder
+Pasa-Service-Spalte das gewünschte Projekt aus, klicken Sie, um eine „Projektlösung“ auszuwählen, klicken Sie in der unteren linken Spalte auf „Lizenz erstellen“undbefolgen Sie die Eingabeaufforderungen, um die E-Mail einzugeben für die Zahlungverwendete Adresse Die Adresse und die BSC (BEP20)-Wallet-Adresse springenautomatisch zur Erstellungsseite. 
+
+2.1.2. Versionsauswahl: Wählen Sie auf der Erstellungsseite die benötigte kostenloseVersion aus und folgen Sie der Aufforderung auf der Seite zur „Bestätigung“, umIhreexklusive kostenlose Version von Lisence zu erstellen. Klicken Sie auf „←“inder
+oberen linken Ecke der Adressleiste, um zur PasaOS-Konsole zurückzukehren undIhreService-Erfahrung zu starten. 2.2. [Kostenpflichtige Lösungsversion] Wählen Sie in der Projektlösungsanwendunginder Spalte Pasa Service das gewünschte Projekt aus, klicken Sie zur Auswahl einer „Projektlösung“, klicken Sie in der unteren linken Spalte auf „Lizenz erstellen“undbefolgen Sie die Eingabeaufforderungen, um die E-Mail einzugeben Zahlungsadresseund BSC (BEP20) Wallet-Adresse springen automatisch zur Erstellungsseite. 
+
+2.2.1. Versionsauswahl: Wählen Sie auf der Erstellungsseite die Basisversion ( ≤5Einheiten) oder die Professional-Version (unbegrenzt) entsprechend der Anzahl der
+benötigten Cluster-Steuergeräte aus. 
+
+2.2.2. Zeitauswahl: Wählen Sie die gewünschte Servicezeit aus, klicken Sie nachder
+Aufforderung auf "OK", und das System berechnet automatisch den zu zahlenden"Betrag" entsprechend der Servicezeit. 
+
+2.2.3. Hinweis: Bitte verwenden Sie zum Bezahlen die von Ihnen eingegebeneBEP20-Adresse! Dieser Vorgang ist auf der BSC-Kette abgeschlossen, Sie müssenmöglicherweise eine Weile warten, bitte verlassen Sie die Seite während des Vorgangsnicht!
+
 2.2.4. Nach Abschluss der On-Chain-Zahlung erhalten Sie eine exklusive Lösungslizenz, bitte bewahren Sie diese gut auf. Klicken Sie auf „←“ in der oberen linken Ecke der
 Adressleiste, um zur PasaOS-Konsole zurückzukehren und Ihre Lösungserfahrungzustarten.
+
+
+
 PasaOS Guia do usuário
-1. Sobre PasaOS
-O PasaOS é um aplicativo Web3.0 seguro, confiável e distribuído, de código aberto no GitHub, com o objetivo de fornecer aplicativos globais paraodesenvolvimento do ecossistema Web3, incluindo informações de campodecriptografia, ferramentas de mineração, gerenciamento de controle de cluster, análisede investimento em criptografia, etc. . 2. Como solicitar uma licença
+1. Sobre PasaOS PasaOS é um aplicativo Web3.0 seguro, confiável e distribuído, de código aberto no GitHub, com o objetivo de fornecer aplicativos globais paraodesenvolvimento do ecossistema Web3, incluindo informações de campodecriptografia, ferramentas de mineração, gerenciamento de controle de cluster, análisede investimento em criptografia, etc. . 
+
+2. Como solicitar uma licença
+
 2.1 Digite "http://127.0.0.1:8888/pasa" na barra de endereço do navegador para entrar
-no console do PasaOS (Firefox/Chrome). 2.1.1. [Versão de serviço gratuito] No aplicativo Solution do projeto na coluna PasaService, selecione o projeto que você precisa, clique para selecionar um"project
-Solution", clique em "Create Lisence" na coluna inferior esquerda e siga as instruçõespara inserir o e-mail endereço usado para pagamento O endereço e o endereçodacarteira BSC (BEP20) irão automaticamente para a página de criação. 2.1.2. Seleção de versão: selecione a versão gratuita necessária na página de criaçãoesiga as instruções na página para "confirmar" para criar sua versão gratuita exclusivado Lisence. Clique em "← " no canto superior esquerdo da barra de endereçopararetornar ao console PasaOS e iniciar sua experiência de serviço. 2.2. [Versão da solução paga] No aplicativo Solução do projeto na coluna Pasa Service, selecione o projeto que você precisa, clique para selecionar uma "Solução do projeto", clique em "Criar licença" na coluna inferior esquerda e siga as instruções para inserir oe-mail endereço para pagamento e o endereço da carteira BSC (BEP20) irãoautomaticamente para a página de criação. 2.2.1. Seleção da versão: Na página de criação, selecione a versão básica (≤5 unidades)
-ou a versão profissional (ilimitada) de acordo com o número de dispositivos decontrole de cluster que você precisa. 2.2.2. Seleção de tempo: Selecione o tempo de serviço que você precisa, clique em"OK"de acordo com o prompt e o sistema calculará automaticamente o "valor" a ser pagodeacordo com o tempo de serviço. 2.2.3. Nota: Por favor, use o endereço BEP20 que você digitou pela primeira vez parapagar! Este processo é concluído na cadeia BSC, pode ser necessário aguardar umpouco, por favor, não saia da página durante o processo!
+no console do PasaOS (Firefox/Chrome). 
+
+2.1.1. [Versão de serviço gratuito] No aplicativo Solution do projeto na coluna PasaService, selecione o projeto que você precisa, clique para selecionar um"project Solution", clique em "Create Lisence" na coluna inferior esquerda e siga as instruçõespara inserir o e-mail endereço usado para pagamento O endereço e o endereçodacarteira BSC (BEP20) irão automaticamente para a página de criação. 
+
+2.1.2. Seleção de versão: selecione a versão gratuita necessária na página de criaçãoesiga as instruções na página para "confirmar" para criar sua versão gratuita exclusivado Lisence. Clique em "← " no canto superior esquerdo da barra de endereçopararetornar ao console PasaOS e iniciar sua experiência de serviço. 
+2.2. [Versão da solução paga] No aplicativo Solução do projeto na coluna Pasa Service, selecione o projeto que você precisa, clique para selecionar uma "Solução do projeto", clique em "Criar licença" na coluna inferior esquerda e siga as instruções para inserir oe-mail endereço para pagamento e o endereço da carteira BSC (BEP20) irãoautomaticamente para a página de criação. 
+
+2.2.1. Seleção da versão: Na página de criação, selecione a versão básica (≤5 unidades)
+ou a versão profissional (ilimitada) de acordo com o número de dispositivos decontrole de cluster que você precisa. 2.2.2. Seleção de tempo: Selecione o tempo de serviço que você precisa, clique em"OK"de acordo com o prompt e o sistema calculará automaticamente o "valor" a ser pagodeacordo com o tempo de serviço. 
+
+2.2.3. Nota: Por favor, use o endereço BEP20 que você digitou pela primeira vez parapagar! Este processo é concluído na cadeia BSC, pode ser necessário aguardar umpouco, por favor, não saia da página durante o processo!
+
+
 2.2.4. Depois de concluir o pagamento on-chain, você receberá uma licença de soluçãoexclusiva, mantenha-a em segurança. Clique em "←" no canto superior esquerdodabarra de endereço para retornar ao console do PasaOS e iniciar sua experiência comasolução.
