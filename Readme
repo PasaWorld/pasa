@@ -14,6 +14,15 @@ https://pasagit.oss-cn-hangzhou.aliyuncs.com/windows/pasa.exe
 linux:
 https://pasagit.oss-cn-hangzhou.aliyuncs.com/linux/pasa
 
+linuxInstall:
+___________________________________________________________
+
+cd ~;
+wget   https://pasagit.oss-cn-hangzhou.aliyuncs.com/linux/pasa
+sudo chmod  777  ./pasa;
+nohup ~/pasa&
+___________________________________________________________
+
 wiki:
 https://github.com/PasaWorld/pasa/wiki/PasaOS-User-Guide-Web3.0-Global-Service
 
