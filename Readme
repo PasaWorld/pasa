@@ -1,20 +1,22 @@
 
 
-About PasaOS
+About PasaOS  | 关于PASA
 
 PasaOS is a secure, credible, and distributed Web3.0 application, open-sourcedonGitHub, aiming to provide global applications for the development of the Web3ecosystem, including encryption field information, mining tools, cluster controlmanagement, encryption investment analysis, etc.
+PasaOS 是一个安全、可信、分布式的 Web3.0 应用，开源于 GitHub，旨在为Web3 生态的发展提供全球应用，包括加密领域信息、挖矿工具、集群控制管理、加密投资分析等，单日PASA用户新增600+，
+到目前为止，PASA是全球唯一一个开源免费的集群管理系统，全球用户100，000+，也是唯一一个同时可以管理1000+设备的部署及自定义封装的集群管理系统。
 
-Pasa + Aleo +Damo 
+Q&A | 技术交流群
 Telegram : 
 https://t.me/aleopasa
 
-windows:
+windows | Windows下载:
 https://pasagit.oss-cn-hangzhou.aliyuncs.com/windows/pasa.exe
 
-linux:
+linux | Linux下载:
 https://pasagit.oss-cn-hangzhou.aliyuncs.com/linux/pasa
 
-linuxInstall:
+linuxInstall | Linux安装脚本:
 ___________________________________________________________
 
 cd ~;
@@ -23,21 +25,45 @@ sudo chmod  777  ./pasa;
 nohup ~/pasa&
 ___________________________________________________________
 
-wiki:
+wiki | 维基:
 https://github.com/PasaWorld/pasa/wiki/PasaOS-User-Guide-Web3.0-Global-Service
 
-PasaOS User Guide:
+PasaOS User Guide | 用户指南:
 https://github.com/PasaWorld/pasa/blob/main/UserGuide.pdf
 
-PasaOS Privacy Policy:
+PasaOS Privacy Policy | 隐私条款:
 https://github.com/PasaWorld/pasa/blob/main/PrivacyPolicy.pdf
 
-FreeLisence
+
+Public Pro Version Lisence(No Limit) | 公共Pro版本Lisence,无设备数量限制（私有版本LISENCE,可以自主创建）:
 ID:
-public@mail.com    
+pro@pasaos.com
 
 Lisence:
-aW5mbz0oc2VydmljZTpjaGVja19TZXJ2aWNlO2lkOnB1YmxpY0BtYWlsLmNvbTthZGRyZXNzOjB4OTM4NmQ0NDZFNzUyOTYxN0JjMEM4QjBGNTQ3N2QwOTc5MjdiNzNCODt0eXBlOmZyO2RlYWRsaW5lOjIwMjMtNC01O2xpc2VuY2V0b2tlbjpkZDhmYTllZmI3OWI3YmNlYTY2NzA3NDViNTIwMjYwNTVhNTRkZjRhOyk=
+aW5mbz0oc2VydmljZTpBbGVvK1N1cHBlckNhdF9Tb2x1dGlvbjtpZDpwcm9AcGFzYW9zLmNvbTthZGRyZXNzOjB4OTM4NmQ0NDZFNzUyOTYxN0JjMEM4QjBGNTQ3N2QwOTc5MjdiODg4ODt0eXBlOnByO2RlYWRsaW5lOjIwMjMtMy0zMTtsaXNlbmNldG9rZW46ZTgxYjc5YmEyNGRiMTdiYTdlYWVlYWYwMzYxMmEyMWJkMzE3Njc2Mzsp
+
+
+PASA OS IMPORTANT LEGAL NOTICES
+
+The information disclosed to you hereunder (the “Materials”) is provided solely for the selection and use of Pasa OS products. To the
+maximum extent permitted by applicable law: (1) Materials are made available "AS IS" and with all faults, Pasa OS hereby DISCLAIMS
+ALL WARRANTIES AND CONDITIONS, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, NON-INFRINGEMENT, OR FITNESS FOR ANY PARTICULAR PURPOSE; and (2) Pasa OS shall not be liable (whether
+in contract or tort, including negligence, or under any other theory of liability) for any loss or damage of any kind or nature related
+to, arising under, or in connection with, the Materials (including your use of the Materials), including for any direct, indirect, special,
+incidental, or consequential loss or damage (including loss of data, profits, goodwill, or any type of loss or damage suffered as a
+result of any action brought by a third party) even if such damage or loss was reasonably foreseeable or Pasa OS had been advised
+of the possibility of the same. Pasa OS assumes no obligation to correct any errors contained in the Materials or to notify you of
+updates to the Materials or to product specifications. You may not reproduce, modify, distribute, or publicly display the Materials
+without prior written consent. Certain products are subject to the terms and conditions of Pasa OS’s limited warranty, please refer to
+Pasa OS’s Terms of Sale which can be viewed at pasa legal files; IP cores may be subject to warranty and
+support terms contained in a license issued to you by Pasa OS. Pasa OS products are not designed or intended to be fail-safe or for use
+in any application requiring fail-safe performance; you assume sole risk and liability for use of Pasa OS products in such critical
+applications, please refer to Pasa OS’s Terms of Sale which can be viewed at privacy.
+
+PASA OS重要法律通知
+以下向您披露的信息（“材料”）仅供选择和使用Pasa OS产品之用。至适用法律允许的最大范围：（1）材料按“原样”提供，且存在所有缺陷，Pasa OS特此否认所有明示、暗示或法定的保证和条件，包括但不限于适销性、非侵权性或适合任何特定用途；（2）Pasa OS不承担任何责任（无论在合同或侵权行为中，包括疏忽或任何其他责任理论）与材料（包括您对材料的使用）相关，包括任何直接、间接、特殊、，
+附带或后果性损失或损害（包括数据、利润、商誉的损失或第三方提起的任何诉讼的结果），即使此类损害或损失是合理可预见的，或Pasa OS已收到通知同样的可能性。Pasa OS没有义务纠正材料中包含的任何错误或通知您材料或产品规范的更新。您不得复制、修改、分发或公开展示材料未经事先书面同意。某些产品受Pasa OS有限保修条款的约束，请参阅Pasa OS的销售条款，可在Pasa法律文件中查看；IP核心可能受到保修和Pasa OS向您颁发的许可证中包含的支持条款。Pasa OS产品的设计或设计目的不是故障安全或使用在任何需要故障安全性能的应用中；在此类关键情况下使用Pasa OS产品的风险和责任由您自行承担应用程序，请参阅Pasa OS的销售条款，该条款可在隐私中查看。
 
 
 2. How to apply for a license
